@@ -16,12 +16,12 @@
 <br>
 <h3>Home page:</h3>
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/99892157/185158353-c46edfab-e658-4dba-8506-486463808c24.png"/>
+    <img src="https://user-images.githubusercontent.com/99892157/197430311-8afb62ec-358f-4a54-811e-8c8b03811e63.png"/>
   </p>
 <br>
-<h3>Load more:</h3>
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/99892157/185158509-c043eb0c-68e8-42c3-9ce8-23834f591937.png"/>
+<h3>Responsivity:</h3>
+  <p align="center"> 
+    <img src="https://user-images.githubusercontent.com/99892157/197430364-f415eef4-8ae4-486e-aedb-c61b5ce0286e.png"/>
   </p>
 <br>
 <h2>Hard Skills:</h2>
@@ -40,7 +40,7 @@
 </ul>
 
 <br>
-<h2>L:</h2>
+<h2>Languages:</h2>
 <ul>
   <li>Fetch</li>
   <li>Normalize CSS</li>
