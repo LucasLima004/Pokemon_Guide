@@ -42,17 +42,9 @@
 <br>
 <h2>Languages:</h2>
 <ul>
-  <li>Fetch</li>
-  <li>Normalize CSS</li>
-  <li>Responsividade</li>
-  <li>
-    Object oriented programming
-    <ul>
-        <li>Encapsulation</li>
-    </ul>
-  </li>
-  <li>HTTP request</li>
-  <li>Promisses JavaScript</li>
+  <li>JavaScript</li>
+  <li>CSS</li>
+  <li>Html</li>
 </ul>
 
 
